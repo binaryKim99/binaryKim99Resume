@@ -1,8 +1,3 @@
 # binaryKim99Resume
 
-Hi, my name is Kim Hyunsoo. I am interested in Federated Learning.
-
-
- DataStructure A+ 2021.07.31
-
- DataStructure A+ 2021.07.31
+Hi, my name is Kim Hyunsoo. I am interested in Federated Learning

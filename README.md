@@ -33,4 +33,4 @@
 ## Contact Me!
 
 - [Github](https://github.com/dblepart99)
-[2021년] [데이터 통신] - 수업중 인상깊은 발표[2021년] [데이터 통신] - 수업중 인상깊은 발표[2021년] [데이터 통신] - 수업중 인상깊은 발표undefinedundefinedundefinedundefinedundefinedundefinedundefinedundefinedundefined[2021년] [자료구조] - 우수 수강생으로 수강완료undefinedundefinedundefinedundefined[2021년] [자료구조] - 수업 최고 수료자
+- [2021년] [자료구조] - 수업 최고 수료자

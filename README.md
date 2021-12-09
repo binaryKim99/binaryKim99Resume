@@ -4,4 +4,4 @@ I am interested in image processing. In the future, I want to study Machine Lear
 
 🌱 I’m currently studying YoloV5, Node.js, Ocaml, React, Docker, C++(C) and image processing.
 <br/>  [2021] [교내 알고리즘 경진대회] - 1등 수상
-<br/>  [2021년] [주니어 창의작품 경진대회] - 1등 수상<br/>  [2021년] [ICPC Regionals] - 본선 진출<br/>  [dfadf] [adfdasf] - asfddasfsd
+<br/>  [2021년] [주니어 창의작품 경진대회] - 1등 수상<br/>  [2021년] [ICPC Regionals] - 본선 진출<br/>  [dfadf] [adfdasf] - asfddasfsd<br/>  [2021년] [ICPC] - 본선 진출
